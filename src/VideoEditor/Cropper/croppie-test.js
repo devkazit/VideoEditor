@@ -1798,3 +1798,6 @@
   });
   return Croppie;
 });
+
+// ES module default export for compatibility
+export default Croppie;
